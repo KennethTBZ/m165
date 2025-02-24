@@ -15,6 +15,7 @@ Dieser Befehl aktiviert die Authentifizierungsfunktion in MongoDB. Ansonsten kan
 `sudo sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mongod.conf  - sudo sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mongod.conf`
 
 Vorher: MongoDB nur lokal erreichbar
+
 Nacher: Ermöglicht auch externer Zugriff (z.B von anderen Laptops)
 
 ## Konfigurationsdatei
