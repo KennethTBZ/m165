@@ -17,3 +17,9 @@ Ein Spieler kann zu einem Team gehören und ein Team kann mehrere Spieler haben.
 Ein Team kann mehrere Spiele haben und ein Spiel hat mehrere Teams (2).
 
 Ein Team kann in einer Liga spielen und eine Liga kann mehrere Teams haben.
+
+# B) Logisches Modell
+
+![image](https://github.com/user-attachments/assets/64894e58-f607-44a3-a731-b25ca50247f8)
+
+### [Draw.io](Logisches.drawio)
