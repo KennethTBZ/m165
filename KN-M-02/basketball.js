@@ -5,5 +5,3 @@ db.createCollection("leagues");
 db.createCollection("teams");
 
 db.createCollection("games");
-
-db.createCollection("players");
