@@ -1,4 +1,4 @@
-use basketball_league;
+use basketball
 
 db.createCollection("leagues");
 
