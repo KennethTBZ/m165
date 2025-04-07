@@ -7,4 +7,4 @@ db.teams.deleteMany({
         { _id: ObjectId("67d822e6613e3b4b2419774f") },
         { _id: ObjectId("67d822e6613e3b4b24197750") }
     ]
-});
+});  
