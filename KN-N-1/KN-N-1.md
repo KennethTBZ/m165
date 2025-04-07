@@ -10,6 +10,6 @@
 
 ![drawio](konzeptionell.drawio)
 
-### Kanten Beziehungen:
+### Kanten Attribute:
 Zwischen Team & Player: isTeamCaptain(bool)
 Zwischen League & Team: joinDate(date)
