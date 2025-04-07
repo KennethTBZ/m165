@@ -63,19 +63,19 @@
         <mxCell id="rm31shmKHeU_tyy5SRNq-14" value="isTeamCaptain: bool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="358" y="500" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rm31shmKHeU_tyy5SRNq-16" value="id: int&#xa;date: date&#xa;time: String&#xa;location: String&#xa;teams 1: int&#xa;teams 2: int&#xa;teaml_played: Array&lt;int&gt;&#xa;team2_played: Array&lt;int&gt;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rm31shmKHeU_tyy5SRNq-16" value="id: int&#xa;date: date&#xa;time: String&#xa;location: String" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="750" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rm31shmKHeU_tyy5SRNq-17" value="id: int&#xa;name: String&#xa;age: int&#xa;position: String&#xa;age: int&#xa;nationality: String" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="510" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rm31shmKHeU_tyy5SRNq-18" value="id: int&#xa;name: String&#xa;trainer: name&#xa;players: Array&lt;Player&gt;&#xa;league_id: int" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="490" width="150" height="100" as="geometry" />
+        <mxCell id="rm31shmKHeU_tyy5SRNq-18" value="id: int&#xa;name: String&#xa;trainer: name" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rm31shmKHeU_tyy5SRNq-19" value="id: int&#xa;name: String&#xa;season: String" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rm31shmKHeU_tyy5SRNq-20" value="joinDate: data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rm31shmKHeU_tyy5SRNq-20" value="joinDate: date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="100" height="30" as="geometry" />
         </mxCell>
       </root>

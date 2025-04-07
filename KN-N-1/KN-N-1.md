@@ -6,7 +6,7 @@
 
 ## B) Logisches Modell für Neo4j (70%)      
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ![drawio](konzeptionell.drawio)
 
