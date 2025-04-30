@@ -28,7 +28,6 @@ db.games.aggregate([
             as: "team1_info"
         }
     },
-    { $unwind: "$team1_info" },
     { $match: { "team1_info.trainer": "JJ Redick" } },
     {
         $project: {
